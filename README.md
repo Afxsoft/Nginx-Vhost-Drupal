@@ -9,8 +9,9 @@ Prereq
 Install NGINX+ PHP-FPM: [HowToForge](http://www.howtoforge.com/installing-nginx-with-php5-and-php-fpm-and-mysql-support-lemp-on-debian-wheezy)
 
 
-```
+
 Limit acess
+-----------
  
 You can limit access like htaccess / htpasswd on Apache:
  
