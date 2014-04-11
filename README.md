@@ -45,3 +45,5 @@ location /phpMyAdmin {
     rewrite ^/* /phpmyadmin last;
 }
 ```
+
+*Enjoy or not :p*
